@@ -1,0 +1,36 @@
+/* CSS for menu */
+
+.div {
+    width: 100vw;
+    padding: 20px;
+    margin: 30px;
+  }
+h1 {
+    line-height: 0.8;
+  }
+
+h1, h2, h3, h4, body, ul, li {
+    font-family: 'Comfortaa', cursive;
+}
+ul {
+    list-style-image: url('happy.png');
+  }
+    a{
+    color:rgb(126, 0, 252)
+}
+.image{
+    background-image: url("cat2.jpeg.jpeg");
+    background-size: 40%;
+    height: 100px;
+    padding: 20px;
+    background-repeat: no-repeat;
+    
+}
+body {
+    background-image: url("lights.jpg");
+    width: 100vw;
+    height: 100vh;
+  }
+  img {
+    border-radius: 8px;
+  }
