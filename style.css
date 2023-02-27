@@ -20,7 +20,7 @@ ul {
 }
 .image{
     background-image: url("cat2.jpeg.jpeg");
-    background-size: 40%;
+    background-size: 100%;
     height: 100px;
     padding: 20px;
     background-repeat: no-repeat;
