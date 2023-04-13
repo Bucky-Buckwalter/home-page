@@ -1,0 +1,44 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+.bg-dark{background-color: rgba(0, 131, 202, 0.534)!important}
+.nav-link:hover{border: .5px solid white 
+}
+
+li a:hover {
+    background-color:rgba(0, 131, 202, 0.534);
+  }
+
+.lead, h1, p {font-family: 'Catamaran', sans-serif;
+  }
+
+  .border{
+    border: none !important;
+    border-left: 6px solid rgb(0, 0, 0)!important;
+    padding-left: 5%;
+    padding-top: 0%;
+  }
+
+section{background-image: (rgb(0,0,0), rgb(255,250,250), rgb(0,0,0));}
+
+  .bg-light{background-color: rgba(0, 131, 202, 0.344)!important }
+  
+
+#des #des2 #des3 #des4 #des5{ padding-top: 5%
+}
+
+.lead{font-size: 1.25rem;
+}
+
+img {  max-width: 90%;
+    height: 70vh; 
+    border-radius: 8px;
+    box-shadow: -15px 20px rgba(0,0,0, .8);
+    align-content: center;
+}
+
+section{
+height: 100vh;
+}
+
+.bg-primary {background-image: url(catH.jpg)!important;
+    background-size: cover}
